@@ -1,0 +1,11 @@
+{
+  "nextID" : 1,
+  "users" : [
+    {
+      "ID" : 0,
+      "name" : "admin",
+      "password" : "admin",
+      "score" : 0
+    }
+  ]
+}
